@@ -1,0 +1,6 @@
+2025-10-03 23:09:14.976 | DEBUG    | __main__:<module>:13 - Initializing encryption parameters
+2025-10-03 23:09:14.976 | DEBUG    | __main__:encrypt:47 - Attempting to encrypt data
+2025-10-03 23:09:14.976 | DEBUG    | __main__:get_private_key:34 - Generating private key
+2025-10-03 23:09:14.976 | DEBUG    | __main__:get_private_key:38 - Private key generated successfully
+2025-10-03 23:09:14.976 | DEBUG    | __main__:encrypt:51 - Encryption completed successfully
+2025-10-03 23:09:14.976 | INFO     | __main__:<module>:74 - Encrypted password = b'U1AMRIQSTYosVJCmmqUHnA=='
